@@ -1,0 +1,17 @@
+# IDE Specifics
+.classpath
+.project
+.settings
+
+# Build
+out/
+target/
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#Log files
+logs/
